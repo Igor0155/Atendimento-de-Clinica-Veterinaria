@@ -45,7 +45,7 @@ A arquitetura do sistema foi desenhada em torno de três padrões de projeto pri
 Abaixo, a representação estrutural da aplicação, detalhando a comunicação entre a entidade núcleo, os padrões comportamentais e os padrões estruturais.
 
 <div align="center">
-  <img width="100%" alt="Diagrama de Classes da Clínica Veterinária" src="https://github.com/user-attachments/assets/b9898525-5345-4513-b5f5-719255477f28" />
+   <img width="1280" height="461" alt="Diagrama de Classes da Clínica Veterinária" src="https://github.com/user-attachments/assets/60fbf62a-eade-422e-b4e6-ff33d53503b8" />
 </div>
 
 ---
@@ -59,5 +59,5 @@ Abaixo, a representação estrutural da aplicação, detalhando a comunicação 
 
 1. Clone o repositório.
 2. Abra o projeto em sua IDE de preferência (Eclipse, IntelliJ, VS Code).
-3. Execute o arquivo `ClinicaVeterinariaAvancadaDemo.java` para visualizar o fluxo completo no console.
+3. Execute o arquivo `ClinicaVeterinariaDemo.java` para visualizar o fluxo completo no console.
 4. Execute a classe `ClinicaVeterinariaTest.java` para rodar as validações unitárias.
